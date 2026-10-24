@@ -76,6 +76,7 @@ var games = {
     "pokemonemerald":"Pokemon Emerald",
     "pokemongreen":"Pokemon Leaf Green",
     "pokemonquetzal": "Pokemon Quetzal",
+    "pokemonunbound": "Pokemon Unbound",
     "mysteryred":"Pokemon Mystery Dungeon Red",
     "pokemonruby":"Pokemon Ruby",
     "pokemonsapphire":"Pokemon Sapphire",
